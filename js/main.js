@@ -23,7 +23,7 @@ import Village from "./class.village.js";
  *    Just add other files ot make it work.
  *    How? Find a way, or you will hang coming tuesday!
  *
- *    The royal servants - 980-06-01
+ *    Elias Fröschl - 980-06-01
  *  *******************************************************/
 
 
@@ -32,6 +32,7 @@ import Village from "./class.village.js";
  * Obviously, you should write a class, so we can create villages.
  * **/
 let steyr = new Village("Steyr");
+
 
 /**
  * The royal administration then wants to add Buildings to a new village.
